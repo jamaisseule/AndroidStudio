@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\drawable_ic_delete.xml.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\drawable_ic_empty.xml.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\drawable\\ic_empty.xml"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\drawable_ic_add.xml.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.comp1786_l5_android_persistence.app-merged_res-4:/layout_item_contact_card.xml.flat",
+        "source": "com.example.comp1786_l5_android_persistence.app-main-6:/layout/item_contact_card.xml"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.comp1786_l5_android_persistence.app-merged_res-4:/layout_activity_details.xml.flat",
+        "source": "com.example.comp1786_l5_android_persistence.app-main-6:/layout/activity_details.xml"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\layout_item_contact_card.xml.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\layout\\item_contact_card.xml"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\xml_backup_rules.xml.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\layout_activity_details.xml.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\layout_activity_update.xml.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.comp1786_l5_android_persistence.app-merged_res-4:/layout_activity_update.xml.flat",
+        "source": "com.example.comp1786_l5_android_persistence.app-main-6:/layout/activity_update.xml"
+    },
+    {
+        "merged": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\course\\SQLite_Android-Complete_Tutorial-master\\daemon\\8.0\\com.example.comp1786_l5_android_persistence.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]
